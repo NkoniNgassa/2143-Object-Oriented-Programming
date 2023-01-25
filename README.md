@@ -1,6 +1,13 @@
 # 2143-Object Oriented Programming
 ## Spring 2023
 
+## Nkoni Ngassa
+#### Repo: 2143 Object Oriented Repo
+#### Email: nnngassa0202@my.msutexas.edu
+#### Website: 
+#### Image:![IMG_2551](https://user-images.githubusercontent.com/123119043/214706542-5be069ef-50e5-4def-ab7c-19315473d4d7.JPEG)
+
+
 <!-- ### Roster
 <a href="https://docs.google.com/spreadsheets/d/12dUUQj2-3riXf7xAVFyMtyYhcLfQaVsr1nF8UrzOrcM/edit?usp=sharing"><img src="https://www.gstatic.com/images/branding/product/2x/sheets_2020q4_48dp.png" width="30">Class Roster</a> -->
 
