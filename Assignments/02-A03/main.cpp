@@ -1,3 +1,21 @@
+/*****************************************************************************
+*                    
+*  Author:           Ngassa Nkoni
+*  Email:            nnngassa0202@my.msutexas.edu
+*  Label:            A03
+*  Title:            Assignment to ensure proper commenting and README creation.
+*  Course:           2143-Object-Oriented-Programming
+*  Semester:         Spring 2023
+* 
+*  Description:
+*        This assignment is to emphasize the importance of organizing a programming project above and beyond the "code" itself. 
+*        If someone cannot decipher your code, they rely on comments. 
+* 
+*  Usage:
+*        how to use the program if necessary
+* 
+*  Files:            (list of all source files used in this program)
+*****************************************************************************/
 #include <iostream>
 
 using namespace std;
